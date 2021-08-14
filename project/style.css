@@ -1,0 +1,52 @@
+body{
+  min-height: 100%;
+  background-color: #00ADB5;
+}
+footer{
+  position: relative;
+  bottom: 0;
+  background-color: black;
+  color: lightgrey;
+  padding: 15px 0;
+  width: 100%;
+  text-align: center;
+}
+.footer{
+  margin: 0;
+
+}
+.banner-heading{
+  font-size: 6rem;
+  color: white;
+}
+.banner{
+  font-size: 3rem;
+  color: white;
+}
+#banner_image{
+  min-height: 40rem;
+  text-align: center;
+  background: url(background.jpg) no-repeat center;
+  background-size: cover;
+}
+#banner_content{
+  position: relative;
+  min-height: 35rem;
+  padding: 2% 0;
+  margin: 15% auto;
+  float: none;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.container-edit{
+  background-color: #EEEEEE;
+  padding : 3%;
+  margin: 2% auto;
+}
+.edit{
+  background-color: #F3F2C9;
+}
+.hr{
+  border: 0.5px solid black;
+  margin: 0.3rem 0;
+}
